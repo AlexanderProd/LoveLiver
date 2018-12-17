@@ -13,7 +13,7 @@ import NorthLayout
 import Ikemen
 
 
-private let livePhotoDuration: TimeInterval = 3
+private let livePhotoDuration: TimeInterval = 10
 private let outputDir = URL(fileURLWithPath: NSHomeDirectory()).appendingPathComponent("Pictures/LoveLiver")
 
 fileprivate extension NSTouchBarItemIdentifier {

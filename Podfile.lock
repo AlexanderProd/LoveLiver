@@ -7,7 +7,7 @@ DEPENDENCIES:
   - "※ikemen"
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - NorthLayout
     - "※ikemen"
 
@@ -17,4 +17,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 8f7e2e0c449e19a45b4f4bb0d60e9a078496f69f
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3
